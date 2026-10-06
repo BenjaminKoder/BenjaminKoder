@@ -89,4 +89,4 @@ Tallsystemer, lykkehjul med database og med localStorage, Sirkelspillet, Mario o
 
 **Språk:** JavaScript, TypeScript, Python, Java, HTML og CSS
 
-**Verktøy og rammeverk:** React, Supabase/Postgres, LLM-API-er, Resend, Twilio, Make.com, Firebase, JavaFX, JUnit, Pygame, Lovable, Git og GitHub
+**Verktøy og rammeverk:** React, Supabase/Postgres, LLM-API-er, Resend, Twilio, Make.com, Firebase, JavaFX, JUnit, Pygame, Git og GitHub
