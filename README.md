@@ -18,7 +18,7 @@ Student innenfor industriell økonomi og teknologiledelse ved NTNU. Utvikler web
       <img src="bilder/campuswear.jpg" alt="CampusWear"><br>
       <b>CampusWear</b> (2026)<br>
       Gruppebestilling av skole-, revy- og russeklær, med designstudio for egen logo.<br>
-      <a href="https://campuswear-azure.vercel.app">Åpne</a>
+      <a href="https://campuswear-azure.vercel.app">Åpne</a>, <a href="https://github.com/BenjaminKoder/everyday-hello-bot">Kode</a>
     </td>
     <td width="33%" valign="top">
       <img src="bilder/nyhetsbriefing.jpg" alt="Nyhetsbriefing"><br>
@@ -44,7 +44,7 @@ Student innenfor industriell økonomi og teknologiledelse ved NTNU. Utvikler web
       <img src="bilder/houston-venues.jpg" alt="Houston Venues"><br>
       <b>Houston Venues</b> (2026)<br>
       Kart og database over lokaler og leverandører til arrangementer.<br>
-      <a href="https://houston-venues.vercel.app">Åpne</a>
+      <a href="https://houston-venues.vercel.app">Åpne</a>, <a href="https://github.com/BenjaminKoder/houston-venues">Kode</a>
     </td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@ Student innenfor industriell økonomi og teknologiledelse ved NTNU. Utvikler web
       <img src="bilder/pilsulator.jpg" alt="Pilsulator"><br>
       <b>Pilsulator</b> (2022)<br>
       Promillekalkulator basert på Widmarks formel.<br>
-      <a href="https://benjaminkoder.github.io/Spillsider/PilsKalkulator/index.html">Prøv</a>
+      <a href="https://benjaminkoder.github.io/Spillsider/PilsKalkulator/index.html">Prøv</a>, <a href="https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/Spillsider/PilsKalkulator">Kode</a>
     </td>
     <td valign="top">
       <img src="bilder/javafx-spill.jpg" alt="JumpyJump"><br>
@@ -64,7 +64,7 @@ Student innenfor industriell økonomi og teknologiledelse ved NTNU. Utvikler web
       <img src="bilder/canvas-spill.jpg" alt="Geometry Dash ish"><br>
       <b>Geometry Dash ish</b> (2022)<br>
       Plattformspill på HTML5 Canvas med 15 baner og ledertavle i Firebase.<br>
-      <a href="https://benjaminkoder.github.io/Spillsider/Canvasgamefreestyle/index.html">Spill</a>
+      <a href="https://benjaminkoder.github.io/Spillsider/Canvasgamefreestyle/index.html">Spill</a>, <a href="https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/Spillsider/Canvasgamefreestyle">Kode</a>
     </td>
   </tr>
   <tr>
@@ -83,7 +83,12 @@ Mer om hvert prosjekt finnes på [porteføljesiden](https://benjamin-eng.vercel.
 
 ## Tidligere prosjekter
 
-Tallsystemer, lykkehjul med database og med localStorage, Sirkelspillet, Mario og Klassequiz. Webprosjektene kjører i nettleseren på [benjaminkoder.github.io](https://benjaminkoder.github.io/). Pygame-spillene ligger i [forste-pygame](https://github.com/BenjaminKoder/forste-pygame).
+- **Tallsystemer** – nettside om tallsystemer, bits og bytes. [Åpne](https://benjaminkoder.github.io/StorsteProsjekter/Tallsystemer/index.html), [Kode](https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/StorsteProsjekter/Tallsystemer)
+- **Lykkehjul med database** – spinner med innlogging og ledertavle. [Åpne](https://benjaminkoder.github.io/Spillsider/SpinnerTob/saannBenjiVil/index.html), [Kode](https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/Spillsider/SpinnerTob/saannBenjiVil)
+- **Lykkehjul med localStorage** – spinner som lagrer i nettleseren. [Åpne](https://benjaminkoder.github.io/Spillsider/SpinnerTycoon/Spinner.html), [Kode](https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/Spillsider/SpinnerTycoon)
+- **Sirkelspillet** – skytespill i Pygame. [Kode](https://github.com/BenjaminKoder/forste-pygame)
+- **Mario** – plattformspill i nettleseren. [Spill](https://benjaminkoder.github.io/StorsteProsjekter/shyguy/index.html), [Kode](https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/StorsteProsjekter/shyguy)
+- **Klassequiz** – julequiz i Pygame. [Kode](https://github.com/BenjaminKoder/forste-pygame)
 
 ## Kompetanse
 
