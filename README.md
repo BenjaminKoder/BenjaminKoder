@@ -37,7 +37,7 @@ Student innenfor industriell økonomi og teknologiledelse ved NTNU. Utvikler web
     <td valign="top">
       <img src="bilder/digisaga.jpg" alt="DigiSaga"><br>
       <b>DigiSaga</b> (2024–)<br>
-      Nettsider og AI-automatisering for norske bedrifter, sammen med en medstudent.<br>
+      Nettsider og AI-automatisering for norske bedrifter. Sammen med Emil Skotner.<br>
       <a href="https://digisaga.no">digisaga.no</a>
     </td>
     <td valign="top">
