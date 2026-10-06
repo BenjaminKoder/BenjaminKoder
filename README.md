@@ -58,7 +58,7 @@ Student innenfor industriell økonomi og teknologiledelse ved NTNU. Utvikler web
       <img src="bilder/javafx-spill.jpg" alt="JumpyJump"><br>
       <b>JumpyJump</b> (2025)<br>
       Plattformspill i JavaFX med innlogging, lagring og JUnit-tester, laget i TDT4100.<br>
-      <a href="https://github.com/BenjaminKoder/Portfolio/tree/main/prosjekter/plattformspill-javafx">Kode</a>
+      <a href="https://github.com/BenjaminKoder/jumpyjump-javafx">Kode</a>
     </td>
     <td valign="top">
       <img src="bilder/canvas-spill.jpg" alt="Geometry Dash ish"><br>
@@ -72,18 +72,18 @@ Student innenfor industriell økonomi og teknologiledelse ved NTNU. Utvikler web
       <img src="bilder/shake-that-jazz.jpg" alt="Shake That Jazz"><br>
       <b>Shake That Jazz</b> (2023)<br>
       Pygame-spill med egne sprites og en butikk for oppgraderinger.<br>
-      <a href="https://github.com/BenjaminKoder/Portfolio/tree/main/prosjekter/shake-that-jazz">Kode</a>
+      <a href="https://github.com/BenjaminKoder/shake-that-jazz">Kode</a>
     </td>
     <td></td>
     <td></td>
   </tr>
 </table>
 
-Flere prosjekter, med skjermbilder og kode, ligger i [Portfolio](https://github.com/BenjaminKoder/Portfolio) og på [porteføljesiden](https://benjamin-eng.vercel.app/).
+Mer om hvert prosjekt finnes på [porteføljesiden](https://benjamin-eng.vercel.app/).
 
 ## Tidligere prosjekter
 
-Tallsystemer, lykkehjul med database og med localStorage, Sirkelspillet, Mario og Klassequiz. Webprosjektene kjører i nettleseren på [benjaminkoder.github.io](https://benjaminkoder.github.io/).
+Tallsystemer, lykkehjul med database og med localStorage, Sirkelspillet, Mario og Klassequiz. Webprosjektene kjører i nettleseren på [benjaminkoder.github.io](https://benjaminkoder.github.io/). Pygame-spillene ligger i [forste-pygame](https://github.com/BenjaminKoder/forste-pygame).
 
 ## Kompetanse
 
