@@ -51,7 +51,7 @@ Student innenfor industriell økonomi og teknologiledelse ved NTNU. Utvikler web
     <td valign="top">
       <img src="bilder/pilsulator.jpg" alt="Pilsulator"><br>
       <b>Pilsulator</b> (2022)<br>
-      Promillekalkulator basert på Widmarks formel.<br>
+      Promillekalkulator basert på Widmarks formel. Illustrasjoner av Felix Johanssen.<br>
       <a href="https://benjaminkoder.github.io/Spillsider/PilsKalkulator/index.html">Prøv</a>, <a href="https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/Spillsider/PilsKalkulator">Kode</a>
     </td>
     <td valign="top">
@@ -83,8 +83,8 @@ Mer om hvert prosjekt finnes på [porteføljesiden](https://benjamin-eng.vercel.
 
 ## Tidligere prosjekter
 
-- **Benjamins prosjekter** – de første prosjektene jeg lagde, som viser utviklingen min. [Åpne](https://benjaminkoder.github.io/StorsteProsjekter/StorsteProsjekter.html), [Kode](https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/StorsteProsjekter)
 - **Tallsystemer** – nettside om tallsystemer, bits og bytes. [Åpne](https://benjaminkoder.github.io/StorsteProsjekter/Tallsystemer/index.html), [Kode](https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/StorsteProsjekter/Tallsystemer)
+- **Benjamins prosjekter** – de første prosjektene jeg lagde, som viser utviklingen min. [Åpne](https://benjaminkoder.github.io/StorsteProsjekter/StorsteProsjekter.html), [Kode](https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/StorsteProsjekter)
 - **Lykkehjul med database** – spinner med innlogging og ledertavle. [Åpne](https://benjaminkoder.github.io/Spillsider/SpinnerTob/saannBenjiVil/index.html), [Kode](https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/Spillsider/SpinnerTob/saannBenjiVil)
 - **Lykkehjul med localStorage** – spinner som lagrer i nettleseren. [Åpne](https://benjaminkoder.github.io/Spillsider/SpinnerTycoon/Spinner.html), [Kode](https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/Spillsider/SpinnerTycoon)
 - **Sirkelspillet** – skytespill i Pygame. [Kode](https://github.com/BenjaminKoder/forste-pygame)
