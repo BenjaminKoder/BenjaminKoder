@@ -71,7 +71,7 @@ Student innenfor industriell økonomi og teknologiledelse ved NTNU. Utvikler web
     <td valign="top">
       <img src="bilder/shake-that-jazz.jpg" alt="Shake That Jazz"><br>
       <b>Shake That Jazz</b> (2023)<br>
-      Pygame-spill med egne sprites og en butikk for oppgraderinger.<br>
+      Pygame-spill med sprites jeg har tegnet selv og en butikk for oppgraderinger.<br>
       <a href="https://github.com/BenjaminKoder/shake-that-jazz">Kode</a>
     </td>
     <td></td>
