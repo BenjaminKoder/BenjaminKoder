@@ -87,7 +87,7 @@ Mer om hvert prosjekt finnes på [porteføljesiden](https://benjamin-eng.vercel.
 - **Lykkehjul med database** – spinner med innlogging og ledertavle. [Åpne](https://benjaminkoder.github.io/Spillsider/SpinnerTob/saannBenjiVil/index.html), [Kode](https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/Spillsider/SpinnerTob/saannBenjiVil)
 - **Lykkehjul med localStorage** – spinner som lagrer i nettleseren. [Åpne](https://benjaminkoder.github.io/Spillsider/SpinnerTycoon/Spinner.html), [Kode](https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/Spillsider/SpinnerTycoon)
 - **Sirkelspillet** – skytespill i Pygame. [Kode](https://github.com/BenjaminKoder/forste-pygame)
-- **Mario** – plattformspill i nettleseren. [Spill](https://benjaminkoder.github.io/StorsteProsjekter/shyguy/index.html), [Kode](https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/StorsteProsjekter/shyguy)
+- **Mario** – hoppespill i nettleseren. [Spill](https://benjaminkoder.github.io/StorsteProsjekter/shyguy/index.html), [Kode](https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/StorsteProsjekter/shyguy)
 - **Klassequiz** – julequiz i Pygame. [Kode](https://github.com/BenjaminKoder/forste-pygame)
 
 ## Kompetanse
