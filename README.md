@@ -2,7 +2,7 @@
 
 Student innenfor industriell økonomi og teknologiledelse ved NTNU. Utvikler web og AI-integrasjoner.
 
-[Porteføljeside](https://portfolio-website-nine-silk-69.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/benjamin-eng-5a8385323/) | [E-post](mailto:bennyeng0612@gmail.com)
+[Porteføljeside](https://benjamin-eng.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/benjamin-eng-5a8385323/) | [E-post](mailto:bennyeng0612@gmail.com)
 
 ## Prosjekter
 
@@ -18,7 +18,7 @@ Student innenfor industriell økonomi og teknologiledelse ved NTNU. Utvikler web
       <img src="bilder/campuswear.jpg" alt="CampusWear"><br>
       <b>CampusWear</b> (2026)<br>
       Gruppebestilling av skole-, revy- og russeklær, med designstudio for egen logo.<br>
-      <a href="https://everyday-hello-bot.lovable.app">Åpne</a>
+      <a href="https://campuswear-azure.vercel.app">Åpne</a>
     </td>
     <td width="33%" valign="top">
       <img src="bilder/nyhetsbriefing.jpg" alt="Nyhetsbriefing"><br>
@@ -44,7 +44,7 @@ Student innenfor industriell økonomi og teknologiledelse ved NTNU. Utvikler web
       <img src="bilder/houston-venues.jpg" alt="Houston Venues"><br>
       <b>Houston Venues</b> (2026)<br>
       Kart og database over lokaler og leverandører til arrangementer.<br>
-      <a href="https://houston-venues.lovable.app">Åpne</a>
+      <a href="https://houston-venues.vercel.app">Åpne</a>
     </td>
   </tr>
   <tr>
@@ -79,7 +79,7 @@ Student innenfor industriell økonomi og teknologiledelse ved NTNU. Utvikler web
   </tr>
 </table>
 
-Flere prosjekter, med skjermbilder og kode, ligger i [Portfolio](https://github.com/BenjaminKoder/Portfolio) og på [porteføljesiden](https://portfolio-website-nine-silk-69.vercel.app/).
+Flere prosjekter, med skjermbilder og kode, ligger i [Portfolio](https://github.com/BenjaminKoder/Portfolio) og på [porteføljesiden](https://benjamin-eng.vercel.app/).
 
 ## Tidligere prosjekter
 
