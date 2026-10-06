@@ -28,19 +28,19 @@ Student innenfor industriell økonomi og teknologiledelse ved NTNU. Utvikler web
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td width="33%" valign="top">
       <img src="bilder/anbudsportal.jpg" alt="Anbudsportal"><br>
       <b>Anbudsportal</b> (2025)<br>
       Kobler privatpersoner med håndverkere. Sammen med Emil Skotner.<br>
       <a href="https://anbudsportal.lovable.app">Åpne</a>
     </td>
-    <td valign="top">
+    <td width="33%" valign="top">
       <img src="bilder/digisaga.jpg" alt="DigiSaga"><br>
       <b>DigiSaga</b> (2024–)<br>
       Nettsider og AI-automatisering for norske bedrifter. Sammen med Emil Skotner.<br>
       <a href="https://digisaga.no">digisaga.no</a>
     </td>
-    <td valign="top">
+    <td width="33%" valign="top">
       <img src="bilder/houston-venues.jpg" alt="Houston Venues"><br>
       <b>Houston Venues</b> (2026)<br>
       Kart og database over lokaler og leverandører til arrangementer.<br>
@@ -48,33 +48,38 @@ Student innenfor industriell økonomi og teknologiledelse ved NTNU. Utvikler web
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td width="33%" valign="top">
+      <img src="bilder/consulteng.jpg" alt="ConsultEng"><br>
+      <b>ConsultEng</b> (2024–)<br>
+      Webstudio jeg driver alene, som lager nettsider for nyetablerte bedrifter.<br>
+      <a href="https://consulteng.no">consulteng.no</a>, <a href="https://github.com/BenjaminKoder/consulteng-web-studio">Kode</a>
+    </td>
+    <td width="33%" valign="top">
       <img src="bilder/pilsulator.jpg" alt="Pilsulator"><br>
       <b>Pilsulator</b> (2022)<br>
       Promillekalkulator basert på Widmarks formel. Illustrasjoner av Felix Johanssen.<br>
       <a href="https://benjaminkoder.github.io/Spillsider/PilsKalkulator/index.html">Prøv</a>, <a href="https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/Spillsider/PilsKalkulator">Kode</a>
     </td>
-    <td valign="top">
+    <td width="33%" valign="top">
       <img src="bilder/javafx-spill.jpg" alt="JumpyJump"><br>
       <b>JumpyJump</b> (2025)<br>
       Plattformspill i JavaFX med innlogging, lagring og JUnit-tester, laget i TDT4100.<br>
       <a href="https://github.com/BenjaminKoder/jumpyjump-javafx">Kode</a>
     </td>
-    <td valign="top">
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <img src="bilder/canvas-spill.jpg" alt="Geometry Dash ish"><br>
       <b>Geometry Dash ish</b> (2022)<br>
       Plattformspill på HTML5 Canvas med 15 baner og ledertavle i Firebase.<br>
       <a href="https://benjaminkoder.github.io/Spillsider/Canvasgamefreestyle/index.html">Spill</a>, <a href="https://github.com/BenjaminKoder/BenjaminKoder.github.io/tree/main/Spillsider/Canvasgamefreestyle">Kode</a>
     </td>
-  </tr>
-  <tr>
-    <td valign="top">
+    <td width="33%" valign="top">
       <img src="bilder/shake-that-jazz.jpg" alt="Shake That Jazz"><br>
       <b>Shake That Jazz</b> (2023)<br>
       Pygame-spill med sprites jeg har tegnet selv og en butikk for oppgraderinger.<br>
       <a href="https://github.com/BenjaminKoder/shake-that-jazz">Kode</a>
     </td>
-    <td></td>
     <td></td>
   </tr>
 </table>
