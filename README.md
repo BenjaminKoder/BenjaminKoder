@@ -12,7 +12,7 @@ Student innenfor industriell økonomi og teknologiledelse ved NTNU. Utvikler web
       <img src="bilder/peer.jpg" alt="Peer"><br>
       <b>Peer</b> (2026)<br>
       Timebestilling og CRM for helseklinikker, med SMS-varsler. Sammen med Emil Skotner.<br>
-      <a href="https://peer-booking.lovable.app">Booking</a>, <a href="https://peer-crm.lovable.app">CRM</a>
+      <a href="https://peer-booking.lovable.app">Booking</a>, <a href="https://peer-crm.vercel.app">CRM</a>
     </td>
     <td width="33%" valign="top">
       <img src="bilder/campuswear.jpg" alt="CampusWear"><br>
